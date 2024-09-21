@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mockysit.github.io/sitemap.html.gz
+Sitemap: https://mockysit.github.io/app/sitemap.html.gz
+Sitemap: https://mockysit.github.io/assets/sitemap.html.gz
+Sitemap: https://mockysit.github.io/css/sitemap.html.gz
+Sitemap: https://mockysit.github.io/data/sitemap.html.gz
+Sitemap: https://mockysit.github.io/includes/sitemap.html.gz
+Sitemap: https://mockysit.github.io/item/sitemap.html.gz
+Sitemap: https://mockysit.github.io/src/sitemap.html.gz
